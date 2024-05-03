@@ -42,6 +42,7 @@ Application Programming Interface (Interface de Programação de Aplicação).<b
 ## **TEMA** <br><br>Currency Converter<br><br>Conversor de Moedas
 
 <div align="center">
+  <img src="/resources/images/badge.webp" alt="Imagem da badge" width="50%">
   <img src="/resources/images/converter.jpeg" alt="Imagem da máquina de conversão de moedas" width="50%">
 </div>
 
